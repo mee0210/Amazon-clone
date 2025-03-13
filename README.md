@@ -13,7 +13,7 @@ Technologies Used
 - **CSS** – For styling and layout  
 
 Preview  
-![image](https://github.com/user-attachments/assets/124f9545-ccdd-4ff0-b8d2-fe81dc195984)
+![Screenshot (30)](https://github.com/user-attachments/assets/1559adde-b0a7-4094-88cc-5de4820cef5c)
 
 Future Improvements  
 - Adding JavaScript for interactive features  
